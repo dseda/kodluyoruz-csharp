@@ -1,0 +1,15 @@
+/Users/seda/Documents/Projects/kodluyoruz-csharp/consoleprogramlama/obj/Debug/net5.0/consoleprogramlama.csproj.AssemblyReference.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/consoleprogramlama/obj/Debug/net5.0/consoleprogramlama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seda/Documents/Projects/kodluyoruz-csharp/consoleprogramlama/obj/Debug/net5.0/consoleprogramlama.AssemblyInfoInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/consoleprogramlama/obj/Debug/net5.0/consoleprogramlama.AssemblyInfo.cs
+/Users/seda/Documents/Projects/kodluyoruz-csharp/consoleprogramlama/obj/Debug/net5.0/consoleprogramlama.csproj.CoreCompileInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/consoleprogramlama/bin/Debug/net5.0/consoleprogramlama.deps.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/consoleprogramlama/bin/Debug/net5.0/consoleprogramlama.runtimeconfig.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/consoleprogramlama/bin/Debug/net5.0/consoleprogramlama.runtimeconfig.dev.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/consoleprogramlama/bin/Debug/net5.0/consoleprogramlama.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/consoleprogramlama/bin/Debug/net5.0/ref/consoleprogramlama.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/consoleprogramlama/bin/Debug/net5.0/consoleprogramlama.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/consoleprogramlama/obj/Debug/net5.0/consoleprogramlama.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/consoleprogramlama/obj/Debug/net5.0/ref/consoleprogramlama.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/consoleprogramlama/obj/Debug/net5.0/consoleprogramlama.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/consoleprogramlama/obj/Debug/net5.0/consoleprogramlama.genruntimeconfig.cache

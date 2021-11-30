@@ -1,0 +1,15 @@
+/Users/seda/Documents/Projects/kodluyoruz-csharp/operatorler/bin/Debug/net5.0/operatorler.deps.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.dev.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/operatorler/bin/Debug/net5.0/operatorler.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/operatorler/bin/Debug/net5.0/ref/operatorler.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/operatorler/bin/Debug/net5.0/operatorler.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/operatorler/obj/Debug/net5.0/operatorler.csproj.AssemblyReference.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/operatorler/obj/Debug/net5.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seda/Documents/Projects/kodluyoruz-csharp/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfoInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfo.cs
+/Users/seda/Documents/Projects/kodluyoruz-csharp/operatorler/obj/Debug/net5.0/operatorler.csproj.CoreCompileInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/operatorler/obj/Debug/net5.0/operatorler.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/operatorler/obj/Debug/net5.0/ref/operatorler.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/operatorler/obj/Debug/net5.0/operatorler.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/operatorler/obj/Debug/net5.0/operatorler.genruntimeconfig.cache

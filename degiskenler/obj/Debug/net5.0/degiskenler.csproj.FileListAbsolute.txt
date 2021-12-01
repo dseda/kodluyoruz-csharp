@@ -1,0 +1,5 @@
+/Users/seda/Documents/Projects/kodluyoruz-csharp/degiskenler/obj/Debug/net5.0/degiskenler.csproj.AssemblyReference.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/degiskenler/obj/Debug/net5.0/degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seda/Documents/Projects/kodluyoruz-csharp/degiskenler/obj/Debug/net5.0/degiskenler.AssemblyInfoInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/degiskenler/obj/Debug/net5.0/degiskenler.AssemblyInfo.cs
+/Users/seda/Documents/Projects/kodluyoruz-csharp/degiskenler/obj/Debug/net5.0/degiskenler.csproj.CoreCompileInputs.cache

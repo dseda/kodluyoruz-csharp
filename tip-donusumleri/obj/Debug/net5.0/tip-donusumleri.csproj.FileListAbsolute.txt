@@ -1,0 +1,15 @@
+/Users/seda/Documents/Projects/kodluyoruz-csharp/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.deps.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.runtimeconfig.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.runtimeconfig.dev.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/tip-donusumleri/bin/Debug/net5.0/ref/tip-donusumleri.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.csproj.AssemblyReference.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seda/Documents/Projects/kodluyoruz-csharp/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.AssemblyInfoInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.AssemblyInfo.cs
+/Users/seda/Documents/Projects/kodluyoruz-csharp/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.csproj.CoreCompileInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/tip-donusumleri/obj/Debug/net5.0/ref/tip-donusumleri.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.genruntimeconfig.cache

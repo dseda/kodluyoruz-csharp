@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "tip-donusumleri/1.0.0": {
+        "runtime": {
+          "tip-donusumleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tip-donusumleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

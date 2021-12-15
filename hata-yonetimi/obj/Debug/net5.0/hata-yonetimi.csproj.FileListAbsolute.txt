@@ -1,0 +1,15 @@
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hata-yonetimi/bin/Debug/net5.0/hata-yonetimi.deps.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hata-yonetimi/bin/Debug/net5.0/hata-yonetimi.runtimeconfig.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hata-yonetimi/bin/Debug/net5.0/hata-yonetimi.runtimeconfig.dev.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hata-yonetimi/bin/Debug/net5.0/hata-yonetimi.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hata-yonetimi/bin/Debug/net5.0/ref/hata-yonetimi.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hata-yonetimi/bin/Debug/net5.0/hata-yonetimi.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hata-yonetimi/obj/Debug/net5.0/hata-yonetimi.csproj.AssemblyReference.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hata-yonetimi/obj/Debug/net5.0/hata-yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hata-yonetimi/obj/Debug/net5.0/hata-yonetimi.AssemblyInfoInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hata-yonetimi/obj/Debug/net5.0/hata-yonetimi.AssemblyInfo.cs
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hata-yonetimi/obj/Debug/net5.0/hata-yonetimi.csproj.CoreCompileInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hata-yonetimi/obj/Debug/net5.0/hata-yonetimi.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hata-yonetimi/obj/Debug/net5.0/ref/hata-yonetimi.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hata-yonetimi/obj/Debug/net5.0/hata-yonetimi.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hata-yonetimi/obj/Debug/net5.0/hata-yonetimi.genruntimeconfig.cache

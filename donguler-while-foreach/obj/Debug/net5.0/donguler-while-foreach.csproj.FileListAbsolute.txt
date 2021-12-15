@@ -1,0 +1,15 @@
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.deps.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.runtimeconfig.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.runtimeconfig.dev.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-while-foreach/bin/Debug/net5.0/ref/donguler-while-foreach.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.csproj.AssemblyReference.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.AssemblyInfoInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.AssemblyInfo.cs
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.csproj.CoreCompileInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-while-foreach/obj/Debug/net5.0/ref/donguler-while-foreach.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.genruntimeconfig.cache

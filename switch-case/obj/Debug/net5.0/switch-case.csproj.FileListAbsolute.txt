@@ -1,0 +1,15 @@
+/Users/seda/Documents/Projects/kodluyoruz-csharp/switch-case/bin/Debug/net5.0/switch-case.deps.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/switch-case/bin/Debug/net5.0/switch-case.runtimeconfig.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/switch-case/bin/Debug/net5.0/switch-case.runtimeconfig.dev.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/switch-case/bin/Debug/net5.0/switch-case.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/switch-case/bin/Debug/net5.0/ref/switch-case.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/switch-case/bin/Debug/net5.0/switch-case.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/switch-case/obj/Debug/net5.0/switch-case.csproj.AssemblyReference.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/switch-case/obj/Debug/net5.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seda/Documents/Projects/kodluyoruz-csharp/switch-case/obj/Debug/net5.0/switch-case.AssemblyInfoInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/switch-case/obj/Debug/net5.0/switch-case.AssemblyInfo.cs
+/Users/seda/Documents/Projects/kodluyoruz-csharp/switch-case/obj/Debug/net5.0/switch-case.csproj.CoreCompileInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/switch-case/obj/Debug/net5.0/switch-case.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/switch-case/obj/Debug/net5.0/ref/switch-case.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/switch-case/obj/Debug/net5.0/switch-case.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/switch-case/obj/Debug/net5.0/switch-case.genruntimeconfig.cache

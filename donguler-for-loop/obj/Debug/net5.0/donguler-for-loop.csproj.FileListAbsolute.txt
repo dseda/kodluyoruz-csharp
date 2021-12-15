@@ -1,0 +1,15 @@
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.csproj.AssemblyReference.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.AssemblyInfoInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.AssemblyInfo.cs
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.csproj.CoreCompileInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.deps.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.runtimeconfig.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.runtimeconfig.dev.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-for-loop/bin/Debug/net5.0/ref/donguler-for-loop.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-for-loop/obj/Debug/net5.0/ref/donguler-for-loop.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/seda/Documents/Projects/kodluyoruz-csharp/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.deps.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.runtimeconfig.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.runtimeconfig.dev.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/diziler-array-sinifi-metodlari/bin/Debug/net5.0/ref/diziler-array-sinifi-metodlari.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.csproj.AssemblyReference.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seda/Documents/Projects/kodluyoruz-csharp/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.AssemblyInfoInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.AssemblyInfo.cs
+/Users/seda/Documents/Projects/kodluyoruz-csharp/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.csproj.CoreCompileInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/diziler-array-sinifi-metodlari/obj/Debug/net5.0/ref/diziler-array-sinifi-metodlari.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.genruntimeconfig.cache

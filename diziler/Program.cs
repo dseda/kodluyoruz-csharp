@@ -13,7 +13,7 @@ namespace diziler
             renkler[0] = "Mavi";
             dizi[3] = 10;
             Console.WriteLine(hayvanlar[1]);
-            Console.WriteLine(dizi[3]);
+            Console.WriteLine(dizi.Length);
             Console.WriteLine(renkler[0]);
             
             Console.WriteLine("Dizinin eleman sayisini giriniz");

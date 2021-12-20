@@ -42,8 +42,6 @@ namespace tip_donusumleri
             string zz = 12.5F.ToString();
             Console.WriteLine("zz "+ zz);
 
-           
-
             //Sytem.Convert
             Console.WriteLine("******Sytem.Convert sinifi****");
             string s1= "10", s2="20";

@@ -1,0 +1,15 @@
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hazir-metotlar-string/bin/Debug/net5.0/hazir-metotlar-string.deps.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hazir-metotlar-string/bin/Debug/net5.0/hazir-metotlar-string.runtimeconfig.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hazir-metotlar-string/bin/Debug/net5.0/hazir-metotlar-string.runtimeconfig.dev.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hazir-metotlar-string/bin/Debug/net5.0/hazir-metotlar-string.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hazir-metotlar-string/bin/Debug/net5.0/ref/hazir-metotlar-string.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hazir-metotlar-string/bin/Debug/net5.0/hazir-metotlar-string.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hazir-metotlar-string/obj/Debug/net5.0/hazir-metotlar-string.csproj.AssemblyReference.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hazir-metotlar-string/obj/Debug/net5.0/hazir-metotlar-string.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hazir-metotlar-string/obj/Debug/net5.0/hazir-metotlar-string.AssemblyInfoInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hazir-metotlar-string/obj/Debug/net5.0/hazir-metotlar-string.AssemblyInfo.cs
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hazir-metotlar-string/obj/Debug/net5.0/hazir-metotlar-string.csproj.CoreCompileInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hazir-metotlar-string/obj/Debug/net5.0/hazir-metotlar-string.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hazir-metotlar-string/obj/Debug/net5.0/ref/hazir-metotlar-string.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hazir-metotlar-string/obj/Debug/net5.0/hazir-metotlar-string.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/hazir-metotlar-string/obj/Debug/net5.0/hazir-metotlar-string.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/seda/Documents/Projects/kodluyoruz-csharp/odev-1/obj/Debug/net5.0/odev-1.csproj.AssemblyReference.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/odev-1/obj/Debug/net5.0/odev-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seda/Documents/Projects/kodluyoruz-csharp/odev-1/obj/Debug/net5.0/odev-1.AssemblyInfoInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/odev-1/obj/Debug/net5.0/odev-1.AssemblyInfo.cs
+/Users/seda/Documents/Projects/kodluyoruz-csharp/odev-1/obj/Debug/net5.0/odev-1.csproj.CoreCompileInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/odev-1/bin/Debug/net5.0/odev-1.deps.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/odev-1/bin/Debug/net5.0/odev-1.runtimeconfig.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/odev-1/bin/Debug/net5.0/odev-1.runtimeconfig.dev.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/odev-1/bin/Debug/net5.0/odev-1.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/odev-1/bin/Debug/net5.0/ref/odev-1.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/odev-1/bin/Debug/net5.0/odev-1.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/odev-1/obj/Debug/net5.0/odev-1.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/odev-1/obj/Debug/net5.0/ref/odev-1.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/odev-1/obj/Debug/net5.0/odev-1.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/odev-1/obj/Debug/net5.0/odev-1.genruntimeconfig.cache

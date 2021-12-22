@@ -1,0 +1,15 @@
+/Users/seda/Documents/Projects/kodluyoruz-csharp/kurucu-constructor-metotlar/obj/Debug/net5.0/kurucu-constructor-metotlar.csproj.AssemblyReference.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/kurucu-constructor-metotlar/obj/Debug/net5.0/kurucu-constructor-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seda/Documents/Projects/kodluyoruz-csharp/kurucu-constructor-metotlar/obj/Debug/net5.0/kurucu-constructor-metotlar.AssemblyInfoInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/kurucu-constructor-metotlar/obj/Debug/net5.0/kurucu-constructor-metotlar.AssemblyInfo.cs
+/Users/seda/Documents/Projects/kodluyoruz-csharp/kurucu-constructor-metotlar/obj/Debug/net5.0/kurucu-constructor-metotlar.csproj.CoreCompileInputs.cache
+/Users/seda/Documents/Projects/kodluyoruz-csharp/kurucu-constructor-metotlar/bin/Debug/net5.0/kurucu-constructor-metotlar.deps.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/kurucu-constructor-metotlar/bin/Debug/net5.0/kurucu-constructor-metotlar.runtimeconfig.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/kurucu-constructor-metotlar/bin/Debug/net5.0/kurucu-constructor-metotlar.runtimeconfig.dev.json
+/Users/seda/Documents/Projects/kodluyoruz-csharp/kurucu-constructor-metotlar/bin/Debug/net5.0/kurucu-constructor-metotlar.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/kurucu-constructor-metotlar/bin/Debug/net5.0/ref/kurucu-constructor-metotlar.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/kurucu-constructor-metotlar/bin/Debug/net5.0/kurucu-constructor-metotlar.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/kurucu-constructor-metotlar/obj/Debug/net5.0/kurucu-constructor-metotlar.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/kurucu-constructor-metotlar/obj/Debug/net5.0/ref/kurucu-constructor-metotlar.dll
+/Users/seda/Documents/Projects/kodluyoruz-csharp/kurucu-constructor-metotlar/obj/Debug/net5.0/kurucu-constructor-metotlar.pdb
+/Users/seda/Documents/Projects/kodluyoruz-csharp/kurucu-constructor-metotlar/obj/Debug/net5.0/kurucu-constructor-metotlar.genruntimeconfig.cache

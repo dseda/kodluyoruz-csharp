@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
+
 
 namespace Koleksiyonlar_Soru_1
 {
@@ -16,7 +15,7 @@ namespace Koleksiyonlar_Soru_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("20 adet tane pozitif sayı giriniz" );
+            Console.WriteLine("20 tane pozitif sayı giriniz" );
             int n = 20;
             int[] positiveNumbers = new int[n];
             string input = "";

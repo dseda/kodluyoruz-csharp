@@ -6,8 +6,6 @@ namespace telefon_rehberi_uygulaması
         private string _firstName;
         private string _lastName;
         private string _phone;
-
-        
         public Contact(string f_name, string l_name, string phone) {
             this._firstName=f_name;
             this._lastName=l_name;
@@ -17,11 +15,9 @@ namespace telefon_rehberi_uygulaması
         public string getFirstName () {
             return this._firstName;
         }
-        
         public string getLastName () {
             return this._lastName;
         }
-
         public string getPhone () {
             return this._phone;
         }

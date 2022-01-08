@@ -27,7 +27,7 @@ namespace telefon_rehberi_uygulaması
                         ops.ViewContacts(contactsList);
                         break;
                     case 5: 
-                    
+                        ops.ViewContact(contactsList);
                         break;
                 }
         } while (Convert.ToInt16(operation) != 6 );

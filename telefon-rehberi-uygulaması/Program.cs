@@ -20,8 +20,14 @@ namespace telefon_rehberi_uygulaması
                     case 2: 
                         ops.DeleteContact(contactsList);
                         break;
+                    case 3:
+                        ops.UpdateContact(contactsList);
+                        break;
                     case 4: 
                         ops.ViewContacts(contactsList);
+                        break;
+                    case 5: 
+                    
                         break;
                 }
         } while (Convert.ToInt16(operation) != 6 );

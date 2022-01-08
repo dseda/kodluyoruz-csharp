@@ -32,9 +32,9 @@ namespace telefon_rehberi_uygulaması
 
         public void DeleteContact(List<Contact> contactList) {
             Console.WriteLine("Silmek istediğiniz kişinin adını ya da soyadını giriniz: ");
-            Console.WriteLine("Lütfen isim giriniz    :");
+            Console.WriteLine("Lütfen isim giriniz   :");
             string first_name = Console.ReadLine();
-            Console.WriteLine("Lütfen soyisim giriniz :");
+            Console.WriteLine("Lütfen soyisim giriniz:");
             string last_name = Console.ReadLine();
             var contact = contactList.Find( 
                 x => x.getFirstName() == first_name ||
@@ -58,8 +58,59 @@ namespace telefon_rehberi_uygulaması
                 } 
             }
         }
+
+        public void UpdateContact(List<Contact> contactList) {
+            Console.WriteLine(" Lütfen numarasını güncellemek istediğiniz kişinin adını ya da soyadını giriniz: ");
+            Console.WriteLine("Lütfen isim giriniz    :");
+            string first_name = Console.ReadLine();
+            Console.WriteLine("Lütfen soyisim giriniz :");
+            string last_name = Console.ReadLine();
+
+            var contact = contactList.Find( 
+                x => x.getFirstName() == first_name ||
+                x.getLastName() == last_name  );
+
+            if(contact != null) {
+                Console.WriteLine("Bulunan kullanıcı: ");
+                Console.WriteLine("*".PadRight(44, '*'));
+                Console.WriteLine("İsim".PadRight(15, ' ') + "Soyisim".PadRight(15, ' ') + "Phone".PadRight(15, ' ') );
+                Console.WriteLine();
+                Console.WriteLine(
+                    contact.getFirstName().PadRight(15, ' ') 
+                    + contact.getLastName().PadRight(15, ' ') 
+                    + contact.getPhone().PadRight(15, ' '));
+
+                //Güncellenecek veri isteniyor
+                Console.WriteLine("Lütfen yeni isim giriniz    :");
+                string new_first_name = Console.ReadLine();
+                Console.WriteLine("Lütfen yeni soyisim giriniz :");
+                string new_last_name = Console.ReadLine();
+                Console.WriteLine("Lütfen yeni numara giriniz :");
+                string new_phone = Console.ReadLine();
+                
+                if(new_first_name != "") {
+                     contact.setFirstName(new_first_name); }
+                if(new_last_name != "") {
+                     contact.setLastName(new_last_name); }
+                if(new_phone != "") {
+                    contact.setPhone(new_phone);
+                }
+
+         }
+         else {
+            Console.WriteLine("Aradığınız kriterlere uygun veri rehberde bulunamadı. Lütfen bir seçim yapınız.");
+            Console.WriteLine("* Güncellemeyi sonlandırmak için:(1)");
+            Console.WriteLine("* Yeniden denemek için          :(2)");
+            int option = Convert.ToInt16(Console.ReadLine());
+                if (option == 2) {
+                    UpdateContact(contactList);
+                }
+         }
+        }
+
         public void ViewContacts(List<Contact> contactList) {
             Console.WriteLine("Rehberi Listelemek");
+            Console.WriteLine("*".PadRight(44, '*'));
             Console.WriteLine("İsim".PadRight(15, ' ') + "Soyisim".PadRight(15, ' ') + "Phone".PadRight(15, ' ') );
             Console.WriteLine();
             foreach (var item in contactList) 
@@ -70,10 +121,5 @@ namespace telefon_rehberi_uygulaması
                         + item.getPhone().PadRight(15, ' '));
                 }
         }
-
-        // public void Update(Contact contact, string first_name, string last_name, string phone) {
-        //     Console.WriteLine("Contact updated");
-        // }
-    
-    }
+    }   
 }

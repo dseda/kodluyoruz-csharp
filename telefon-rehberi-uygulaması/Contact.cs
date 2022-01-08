@@ -17,7 +17,7 @@ namespace telefon_rehberi_uygulaması
         public string getFirstName () {
             return this._firstName;
         }
-
+        
         public string getLastName () {
             return this._lastName;
         }
@@ -25,7 +25,15 @@ namespace telefon_rehberi_uygulaması
         public string getPhone () {
             return this._phone;
         }
-
+        public void setFirstName( string name) {
+            this._firstName=name;
+        }
+        public void setLastName( string name) {
+            this._lastName=name;
+        }
+        public void setPhone( string phone) {
+            this._phone=phone;
+        }
         public void ContactDetails() {
             Console.WriteLine("İsim: " + this._firstName);
             Console.WriteLine("Soyisim: " + this._lastName);

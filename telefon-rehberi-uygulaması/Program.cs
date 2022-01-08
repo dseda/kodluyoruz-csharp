@@ -17,7 +17,9 @@ namespace telefon_rehberi_uygulaması
             Console.WriteLine("(4) Rehberi Listelemek");
             Console.WriteLine("(5) Rehberde Arama Yapmak");
             Console.WriteLine("(6) Çıkış Yapmak");
+
             option = Convert.ToInt16(Console.ReadLine());
+            
             switch(option) {
                 case 1: 
                     Console.WriteLine("Yeni Numara Kaydetmek");
@@ -33,10 +35,13 @@ namespace telefon_rehberi_uygulaması
                 case 2: 
                     Console.WriteLine("Varolan Numarayı Silmek");
                     break;
-
-
-
-                
+                case 4: 
+                    Console.WriteLine("Rehberi Listelemek");
+                    foreach (var item in contactsList) 
+                    {
+                        Console.WriteLine(item.getFirstName() + " " + item.getLastName() + " " + item.getPhone());
+                    }
+                    break;
             }
         } while (Convert.ToInt16(option) != 6 );
        

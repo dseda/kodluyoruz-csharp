@@ -71,7 +71,7 @@ namespace contacts_app_csharp
             if(contact != null) {
                 Console.WriteLine("Bulunan kişi: ");
                 Console.WriteLine();
-                Console.WriteLine("İsim".PadRight(15, ' ') + "Soyisim".PadRight(15, ' ') + "Phone".PadRight(15, ' ') );
+                Console.WriteLine("İsim".PadRight(15, ' ') + "Soyisim".PadRight(15, ' ') + "Telefon".PadRight(15, ' ') );
                 Console.WriteLine("*".PadRight(44, '*'));
                 Console.WriteLine(
                     contact.getFirstName().PadRight(15, ' ') 
@@ -110,7 +110,7 @@ namespace contacts_app_csharp
         public void ViewContacts(List<Contact> contactList) {
             Console.WriteLine("Rehberi Listelemek");
             Console.WriteLine("*".PadRight(44, '*'));
-            Console.WriteLine("İsim".PadRight(15, ' ') + "Soyisim".PadRight(15, ' ') + "Phone".PadRight(15, ' ') );
+            Console.WriteLine("İsim".PadRight(15, ' ') + "Soyisim".PadRight(15, ' ') + "Telefon".PadRight(15, ' ') );
             Console.WriteLine();
             foreach (var item in contactList) 
                 {
@@ -161,7 +161,7 @@ namespace contacts_app_csharp
                 if(contact!=null) {
                     Console.WriteLine("Bulunan kişi: ");
                     Console.WriteLine();
-                    Console.WriteLine("İsim".PadRight(15, ' ') + "Soyisim".PadRight(15, ' ') + "Phone".PadRight(15, ' ') );
+                    Console.WriteLine("İsim".PadRight(15, ' ') + "Soyisim".PadRight(15, ' ') + "Telefon".PadRight(15, ' ') );
                     Console.WriteLine("*".PadRight(44, '*'));
                     
                     Console.WriteLine(

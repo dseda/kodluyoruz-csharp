@@ -9,6 +9,10 @@ namespace contacts_app_csharp
             int operation=0;
             List<Contact> contactsList = new List<Contact>();
             ContactsOperations ops = new ContactsOperations();
+            contactsList.Add(new Contact("Seda", "Demir", "05555555555"));
+            contactsList.Add(new Contact("Gazihan", "Demir", "05555555455"));
+            contactsList.Add(new Contact("Ece", "Demir", "05555555554"));
+            contactsList.Add(new Contact("Nazlı", "Yılmaz", "05555555445"));
 
             do {
                 ops.ViewOptions();

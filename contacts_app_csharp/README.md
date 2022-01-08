@@ -2,7 +2,7 @@
 
 ## Telefon Rehberi Uygulaması
 
-Contact adında bir obje Class'ı ve ContactsOperations adında yardımcı methodları içeren bir class oluşturuldu. Program.cs içinde ise uygulamanın logic'i tutuldu ki kodu okumak kolay olsun.
+Contact adında bir obje Class'ı ve ContactsOperations adında yardımcı methodları içeren bir class oluşturuldu. Program.cs içinde ise uygulamanın logic'i tutuldu. Sorumluluklar parçalandı ve kod okunabilirliği sağlandı.
 
 ### Rehberdeki kişileri listelemek
 

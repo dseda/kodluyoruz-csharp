@@ -1,0 +1,37 @@
+using System;
+
+namespace telefon_rehberi_uygulaması
+{
+    class Contact {
+        private string _firstName;
+        private string _lastName;
+        private string _phone;
+
+        
+        public Contact(string f_name, string l_name, string phone) {
+            this._firstName=f_name;
+            this._lastName=l_name;
+            this._phone=phone;
+        }
+        
+        public string getFirstName () {
+            return this._firstName;
+        }
+
+        public string getLastName () {
+            return this._lastName;
+        }
+
+        public string getPhone () {
+            return this._phone;
+        }
+
+        public void ContactDetails() {
+            Console.WriteLine("İsim: " + this._firstName);
+            Console.WriteLine("Soyisim: " + this._lastName);
+            Console.WriteLine("Telefon Numarası: " + this._phone);
+        }
+
+    }
+
+}

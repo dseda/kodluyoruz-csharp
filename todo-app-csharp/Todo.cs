@@ -39,10 +39,12 @@ namespace todo_app_csharp
             this._duration = value;
         }public void SetStatus(int value) {
             // 0: TODO  1: IN PROGRESS 2: DONE 
-            if (value != 0 ||value != 1 || value != 2) { 
+            if (value == 0 || value == 1 || value == 2) { 
+                this._status = value;
+            }
+            else {  
                 throw new Exception("Todo durumu 0(TODO), 1(IN PROGRESS) ya da 2(DONE) olabilir.");
             }
-            else { this._status = value; }
             
         }
         public void TodoDetails() {

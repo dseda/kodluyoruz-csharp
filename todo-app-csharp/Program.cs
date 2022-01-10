@@ -27,7 +27,7 @@ namespace todo_app_csharp
 
             ops.ViewTodoList(todoList);
             // ops.DeleteTodo(todoList);
-            ops.UpdateStatus(todoList);
+            ops.AddTodo(todoList);
             
 
 

@@ -38,6 +38,28 @@ namespace todo_app_csharp
 
         }
     
+        public void AddTodo(List<Todo> todoList) {
+            Console.WriteLine();
+            Console.Write("Başlık Giriniz                                  :");
+            string title = Console.ReadLine();
+            Console.WriteLine();
+            Console.Write("İçerik Giriniz                                  :");
+            string content = Console.ReadLine();
+            Console.WriteLine();
+            Console.Write("Büyüklük Seçiniz -> XS(1),S(2),M(3),L(4),XL(5)  :");
+            int drtn = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine();
+            Console.Write("Kişi Seçiniz                                    :");
+            try {
+                int person = Convert.ToInt16(Console.ReadLine()); 
+                todoList.Add(new Todo(title, content, drtn, person));
+                Console.WriteLine();
+                ViewTodoList(todoList);
+            }
+            catch {
+                Console.WriteLine("Hatalı girişler yaptınız!");
+            }      
+        }
         public void UpdateStatus(List<Todo> todoList) {
             Console.WriteLine("Öncelikle taşımak istediğiniz kartı seçmeniz gerekiyor.");
             Console.Write("Lütfen kart başlığını yazınız: ");

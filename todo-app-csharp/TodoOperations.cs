@@ -3,14 +3,16 @@ using System.Collections.Generic;
 namespace todo_app_csharp
 {
     class TodoOperations
-    {
+    {   
+
         public void ViewTodoList(List<Todo> todoList) {
             Console.WriteLine();
-            FindResults(todoList, 0);
-            FindResults(todoList, 1);
-            FindResults(todoList, 2);
+            FindResults(todoList, 0); // View "Todo" line
+            FindResults(todoList, 1); // View "In progress" line
+            FindResults(todoList, 2); // View "Done" line
         }
         public void FindResults(List<Todo> todoList, int status) {
+            // List todos based on their status (TODO, IN POGRESS, DONE)
             List<Todo> results = todoList.FindAll(todo=> todo.GetStatus() == status);
             if(status==0){
                 Console.WriteLine("TODO Line");

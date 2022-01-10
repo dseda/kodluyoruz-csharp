@@ -10,8 +10,8 @@ namespace todo_app_csharp
         private int _duration;
 
         private int _status;
-
-        public Todo(string title, string content, int member_id, int duration, int status=0) {
+        
+        public Todo(string title, string content, int duration, int member_id=1, int status=0) {
             this._title = title;
             this._content = content;
             this._memberID = member_id;
@@ -21,9 +21,17 @@ namespace todo_app_csharp
 
         public string GetTitle(){ return this._title;}
         public string GetContent(){ return this._content;} 
-        public int GetMemberID(){ return this._memberID;}
+        public string GetMember(){ 
+            if(this._memberID == 1) {return "Seda Demir";}
+            else if(this._memberID == 2) {return "Canan Yılmaz";}
+            else if(this._memberID == 3) {return "Can Yilmaz";}
+            else if(this._memberID == 4) {return "Canan Mert";}  
+            else {
+                return "Atanan yok.";
+            }         
+        }
         public string GetDuration(){
-            string duration = Enum.GetName(typeof(Todo_Duration.Duration), this._duration);
+            string duration = Enum.GetName(typeof(Duration), this._duration);
             return duration;
         }
         public int GetStatus(){ return this._status;}
@@ -50,8 +58,11 @@ namespace todo_app_csharp
         public void TodoDetails() {
             Console.WriteLine("Başlık      :" + GetTitle());
             Console.WriteLine("İçerik      :" + GetContent());
-            Console.WriteLine("Atanan Kişi :" + (this._memberID).ToString() );
+            Console.WriteLine("Atanan Kişi :" + GetMember() );
             Console.WriteLine("Büyüklük    :" + GetDuration() );  
         }
     }
+
+    
+
 }

@@ -7,7 +7,9 @@ namespace todo_app_csharp
         static void Main(string[] args)
         {   
             TodoOperations ops = new TodoOperations();
+
             Dictionary<int, string> members = new Dictionary<int, string>();
+
             members.Add(1, "Seda Demir");
             members.Add(2, "Canan Yılmaz");
             members.Add(3, "Can Mert");
@@ -23,7 +25,9 @@ namespace todo_app_csharp
             todoList.Add(todo2);
             todoList.Add(todo3);
 
+            Console.WriteLine();
             ops.ViewTodoList(todoList);
+            ops.DeleteTodo(todoList);
             
 
 

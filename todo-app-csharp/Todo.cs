@@ -23,20 +23,17 @@ namespace todo_app_csharp
         public string GetContent(){ return this._content;} 
         public int GetMemberID(){ return this._memberID;}
         public string GetDuration(){
-            string duration = 
-                Enum.GetName(typeof(Todo_Duration.Duration), this._duration);
+            string duration = Enum.GetName(typeof(Todo_Duration.Duration), this._duration);
             return duration;
         }
 
-        public void Set(string value) {
+        public void SetTitle(string value) {
             this._title = value;
         }
-        public void SetTitle(string value) {
+        public void SetContent(string value) {
             this._content = value;
-        }public void SetContent(int value) {
-            this._memberID = value;
         }public void SetMember(int value) {
-            this._duration = value;
+            this._memberID = value;
         }public void SetDuration(int value) {
             this._duration = value;
         }public void SetStatus(int value) {

@@ -11,6 +11,11 @@ namespace todo_app_csharp
             members.Add(2, "Canan Yılmaz");
             members.Add(3, "Can Mert");
             members.Add(4, "Canan Mert");
+            
+            Todo todo = new Todo("todo app", "c sharp", 1, 2,3);
+            todo.TodoDetails();
+
+            
         }
     }
 }

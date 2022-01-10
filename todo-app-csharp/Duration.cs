@@ -9,10 +9,5 @@ class Todo_Duration {
     L=4, 
     X=5,
     }
-
-    public string getDuration(int id) {
-        string duration = Duration.GetName(typeof(Duration), id);
-        return duration;
-    }
 }
 }

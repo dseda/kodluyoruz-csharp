@@ -89,7 +89,6 @@ namespace todo_app_csharp
                 int option = Convert.ToInt16(Console.ReadLine());
                 if(option == 1 || option==2 || option==3) { 
                     option--;
-                    Console.WriteLine(option.ToString());
                     todoList.Find(x=> x.GetTitle() == input).SetStatus((option));
                     Console.WriteLine("Taşıma işlemi tamamlandı");
                     ViewTodoList(todoList);

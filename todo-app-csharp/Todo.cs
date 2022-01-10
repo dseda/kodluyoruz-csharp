@@ -26,6 +26,7 @@ namespace todo_app_csharp
             string duration = Enum.GetName(typeof(Todo_Duration.Duration), this._duration);
             return duration;
         }
+        public int GetStatus(){ return this._status;}
 
         public void SetTitle(string value) {
             this._title = value;
